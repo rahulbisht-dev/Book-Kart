@@ -34,7 +34,7 @@ Welcome to **BookKart**, your one-stop digital platform where students can easil
 ## 🧠 Author
 
 Developed by **Rahul**  
-GitHub: [@yourusername](https://github.com/rahulbisht-dev)
+GitHub: (https://github.com/rahulbisht-dev)
 
 ---
 
